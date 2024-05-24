@@ -1,6 +1,6 @@
 # Find YOur Doctor Chatbot Application
 
-![Chatbot Interface](\static\image\Screenshot (56).png)
+![Chatbot Interface](static\image\Screenshot (56).png)
 
 ## What
 
@@ -45,4 +45,4 @@ This project is a simple web-based chatbot application built using Flask, Tensor
   - The chat interface consists of a chat box where messages are displayed and an input area where you can type and send your messages.
   - The chatbot's responses will appear in the chat box as you interact with it.
 
-  ![Chatbot Interface](E:\find-doc\static\image\Screenshot (56).png)
+  ![Chatbot Interface](static\image\Screenshot (56).png)
