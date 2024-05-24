@@ -1,6 +1,6 @@
 # Find YOur Doctor Chatbot Application
 
-![Chatbot Interface](static\image\Screenshot (56).png)
+![Chatbot Interface](static/images/Screenshot.png)
 
 ## What
 
@@ -29,12 +29,12 @@ This project is a simple web-based chatbot application built using Flask, Tensor
     - Ensure `intents.json` is in the `data` directory.
     - Run the training script:
       ```sh
-      python app/trainingmodel.py
+      python trainingmodel.py
       ```
 
 5. **Run the Flask Application**
     ```sh
-    python app/main.py
+    python main.py
     ```
 
 ## View
@@ -45,4 +45,4 @@ This project is a simple web-based chatbot application built using Flask, Tensor
   - The chat interface consists of a chat box where messages are displayed and an input area where you can type and send your messages.
   - The chatbot's responses will appear in the chat box as you interact with it.
 
-  ![Chatbot Interface](static\image\Screenshot (56).png)
+  ![Chatbot Interface](static/images/Screenshot.png)
