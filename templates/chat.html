@@ -11,6 +11,7 @@
     <!-- Material Design Lite JavaScript -->
     <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
     <style>
+        /* General body styling */
         body {
             font-family: 'Roboto', sans-serif;
             margin: 0;
@@ -21,6 +22,7 @@
             height: 100vh;
             background-color: white;
         }
+        /* Styling for the chat container */
         .chat-container {
             width: 50%;
             height: 80%;
@@ -32,6 +34,7 @@
             flex-direction: column;
             overflow: hidden;
         }
+        /* Styling for the chat box */
         .chat-box {
             flex: 1;
             padding: 20px;
@@ -40,12 +43,14 @@
             display: flex;
             flex-direction: column;
         }
+        /* Styling for the chat input area */
         .chat-input {
             display: flex;
             padding: 20px;
             background: rgba(0, 128, 0, 0.1);
             backdrop-filter: blur(10px);
         }
+        /* Styling for the input field */
         .chat-input input {
             flex: 1;
             padding: 10px;
@@ -55,6 +60,7 @@
             color: black;
             outline: none;
         }
+        /* Styling for the send button */
         .chat-input button {
             padding: 10px;
             border: none;
@@ -68,6 +74,7 @@
             align-items: center; /* Center text vertically */
             justify-content: center; 
         }
+        /* Styling for messages */
         .message {
             margin-bottom: 10px;
             padding: 10px;
@@ -78,11 +85,13 @@
             max-width: 70%;
             text-align: center; /* Center text */
         }
+        /* Styling for user messages */
         .message.user {
             align-self: flex-end;
             background-color: #a5d6a7;
             color: black;
         }
+        /* Styling for bot messages */
         .message.bot {
             align-self: flex-start;
             background-color: #c8e6c9;
@@ -91,14 +100,19 @@
     </style>
 </head>
 <body>
+    <!-- Chat container that holds the chat box and input area -->
     <div class="chat-container">
+        <!-- Chat box to display messages -->
         <div id="chat-box" class="chat-box"></div>
+        <!-- Input area to type and send messages -->
         <div class="chat-input">
             <input id="user-input" type="text" placeholder="Type your message here...">
-            <button class="mdl-button mdl-js-button mdl-button--raised " onclick="sendMessage()"><pane>Send</pane></button>
+            <button class="mdl-button mdl-js-button mdl-button--raised " onclick="sendMessage()">Send</button>
         </div>
     </div>
+    <!-- jQuery library -->
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <!-- Link to the chat.js script -->
     <script src="/static/js/chat.js"></script>
 </body>
 </html>
