@@ -91,12 +91,12 @@ train_y = list(training[:, 1])
 
 # Define the neural network model
 model = Sequential()
-# Add the input layer with 128 neurons and ReLU activation function
-model.add(Dense(128, input_shape=(len(train_x[0]),), activation='relu'))
+# Add the input layer with 256 neurons and ReLU activation function
+model.add(Dense(256, input_shape=(len(train_x[0]),), activation='relu'))
 # Add dropout with 0.5 rate to prevent overfitting
 model.add(Dropout(0.5))
-# Add a hidden layer with 64 neurons and ReLU activation function
-model.add(Dense(64, activation='relu'))
+# Add a hidden layer with 128 neurons and ReLU activation function
+model.add(Dense(128, activation='relu'))
 # Add dropout with 0.5 rate to prevent overfitting
 model.add(Dropout(0.5))
 # Add the output layer with softmax activation function for classification
@@ -110,6 +110,6 @@ model.compile(loss='categorical_crossentropy', optimizer=sgd, metrics=['accuracy
 hist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5, verbose=1)
 
 # Save the trained model to a file for later use
-model.save('models/chatbotmodel.keras', hist)
+model.save('models copy/chatbotmodel.keras', hist)
 
 print('Model training done')
