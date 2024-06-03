@@ -3,6 +3,7 @@
 ![Chatbot Interface](static/images/Screenshot.png)
 
 ## What
+The "Find-your-doc" project aims to simplify the process of finding available doctors for patients. It addresses the challenge of manually searching for doctor availability by providing a web-based chatbot that delivers real-time information about doctors' schedules.
 
 This project is a simple web-based chatbot application built using Flask, TensorFlow, and Material Design Lite. The chatbot responds to user inputs based on a pre-trained model.
 
