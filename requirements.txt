@@ -1,0 +1,7 @@
+Flask==3.0.3
+keras==3.3.3
+nltk==3.8.1
+numpy==1.26.4
+pip==23.2.1
+tensorflow==2.16.1
+
