@@ -52,33 +52,7 @@
                 "hi there friend"
             ],
             "responses": [
-                "Hello!",
-                "Hey!",
-                "What can I do for you?",
-                "Hi there! How can I assist you today?",
-                "Greetings! How can I help you today?",
-                "Good to see you! How can I help?",
-                "Hello! Need any assistance?",
-                "Hey! How's it going?",
-                "Hi! What brings you here today?",
-                "Hello! How can I make your day better?",
-                "Hi! How can I help you?",
-                "Hey there! What can I do for you?",
-                "Hello! How can I assist you?",
-                "Hi there! Need any help?",
-                "Hey! What can I help you with today?",
-                "Greetings! How can I be of service?",
-                "Hello! How can I support you today?",
-                "Hi! How can I be of assistance?",
-                "Hey! How can I make your day better?",
-                "Hello! What do you need help with?",
-                "Hi there! How can I help?",
-                "Hello! What's up?",
-                "Hey! What do you need?",
-                "Hi! How are you today?",
-                "Hi! Nice to see you.",
-                "Hey there! What can I assist you with?",
-                "Hello! How's your day going?"
+                "Hello!"
             ]
         },
         {
@@ -114,21 +88,7 @@
                 "what is your official name?"
             ],
             "responses": [
-                "You can call me ChannelMaster. How can I help you today?",
-                "I'm ChannelMaster. How can I assist you today?",
-                "I'm ChannelMaster, your virtual assistant. How can I assist you today?",
-                "My name is ChannelMaster. How can I help you today?",
-                "ChannelMaster at your service. How can I assist?",
-                "I'm known as ChannelMaster. How can I help?",
-                "You can address me as ChannelMaster. How can I assist you?",
-                "I'm called ChannelMaster. What can I do for you?",
-                "My name is ChannelMaster. How can I support you?",
-                "I'm ChannelMaster, here to help you.",
-                "I'm ChannelMaster, your helpful assistant.",
-                "Call me ChannelMaster. What do you need help with?",
-                "ChannelMaster is my name. How can I assist you today?",
-                "I'm your assistant, ChannelMaster. How can I help?",
-                "Hi, I'm ChannelMaster. What do you need assistance with?"
+                "You can call me ChannelMaster. How can I help you today?"
             ]
         },
         {
@@ -178,12 +138,8 @@
                 "Which doctors are on duty today?"
             ],
             "responses": [
-                "Here are the doctors available with their specialties: Dr. Anuradha Bandara (Cardiology), Dr. Chaminda Jayasundara (Pediatrics), Dr. Mahesh Weerasinghe (Oncology), Dr. Nimali Perera (Neurology), Dr. Tharindu Rajakaruna (Orthopedics), Dr. Sanduni Fernando (Dermatology), Dr. Dilhan Silva (Urology), Dr. Harsha Dissanayake (Endocrinology), Dr. Ishara Samaraweera (Gastroenterology), Dr. Udayanga Jayaweera (Ophthalmology), Dr. Roshan Mahanama (Rheumatology), Dr. Lakmini Vithanage (Psychiatry), Dr. Priyanka Abeysekara (Pulmonology), Dr. Sujith Rathnayake (Hematology), Dr. Upul Bandaranayake (Allergy & Immunology), Dr. Vibhusha Mendis (Rheumatology), Dr. Geethika Samarawickrama (Orthopedics), Dr. Lasith Malinga (Neurology), Dr. Renuka Jayawardena (Cardiology), Dr. Chathura Rajapakse (Pediatrics), Dr. Janith Liyanage (Oncology), Dr. Shehan Pathirana (Dermatology), Dr. Manoj Perera (Urology), Dr. Nalin Fonseka (Endocrinology), Dr. Buddhika Jayaratne (Gastroenterology), Dr. Amila Gunasekara (Ophthalmology), Dr. Gayan Perera (Rheumatology), Dr. Dinuka Silva (Psychiatry), Dr. Kasun Fernando (Pulmonology), Dr. Chamara Rajapaksa (Neurology), Dr. Lahiru Priyadarshana (Cardiology), Dr. Ruwani Jayasuriya (Pediatrics), Dr. Niroshan Mendis (Oncology), Dr. Sumith De Silva (Dermatology), Dr. Hiruni Wijewardena (Urology), Dr. Pawan Sandaruwan (Endocrinology), Dr. Chinthaka Jayaweera (Gastroenterology), Dr. Thilini Rajakaruna (Ophthalmology), Dr. Manjula Peiris (Rheumatology), Dr. Sajith Lakmal (Psychiatry), Dr. Prasad Kumara (Pulmonology), Dr. Asela Kumara (Internal Medicine), Dr. Bimali Ranaweera (Neurosurgery), Dr. Chatura De Silva (Critical Care), Dr. Damith Amarasiri (Plastic Surgery), Dr. Eranga Wijeratne (Sports Medicine), Dr. Farah Rajapakshe (Pathology), Dr. Gayani Abeysinghe (Infectious Diseases), Dr. Harith Perera (Obstetrics and Gynecology), Dr. Indika Jayatilleke (Gerontology).",
-                "You can consult the following doctors based on their specialties: Dr. Anuradha Bandara (Cardiology), Dr. Chaminda Jayasundara (Pediatrics), Dr. Mahesh Weerasinghe (Oncology), Dr. Nimali Perera (Neurology), Dr. Tharindu Rajakaruna (Orthopedics), Dr. Sanduni Fernando (Dermatology), Dr. Dilhan Silva (Urology), Dr. Harsha Dissanayake (Endocrinology), Dr. Ishara Samaraweera (Gastroenterology), Dr. Udayanga Jayaweera (Ophthalmology), Dr. Roshan Mahanama (Rheumatology), Dr. Lakmini Vithanage (Psychiatry), Dr. Priyanka Abeysekara (Pulmonology), Dr. Sujith Rathnayake (Hematology), Dr. Upul Bandaranayake (Allergy & Immunology), Dr. Vibhusha Mendis (Rheumatology), Dr. Geethika Samarawickrama (Orthopedics), Dr. Lasith Malinga (Neurology), Dr. Renuka Jayawardena (Cardiology), Dr. Chathura Rajapakse (Pediatrics), Dr. Janith Liyanage (Oncology), Dr. Shehan Pathirana (Dermatology), Dr. Manoj Perera (Urology), Dr. Nalin Fonseka (Endocrinology), Dr. Buddhika Jayaratne (Gastroenterology), Dr. Amila Gunasekara (Ophthalmology), Dr. Gayan Perera (Rheumatology), Dr. Dinuka Silva (Psychiatry), Dr. Kasun Fernando (Pulmonology), Dr. Chamara Rajapaksa (Neurology), Dr. Lahiru Priyadarshana (Cardiology), Dr. Ruwani Jayasuriya (Pediatrics), Dr. Niroshan Mendis (Oncology), Dr. Sumith De Silva (Dermatology), Dr. Hiruni Wijewardena (Urology), Dr. Pawan Sandaruwan (Endocrinology), Dr. Chinthaka Jayaweera (Gastroenterology), Dr. Thilini Rajakaruna (Ophthalmology), Dr. Manjula Peiris (Rheumatology), Dr. Sajith Lakmal (Psychiatry), Dr. Prasad Kumara (Pulmonology), Dr. Asela Kumara (Internal Medicine), Dr. Bimali Ranaweera (Neurosurgery), Dr. Chatura De Silva (Critical Care), Dr. Damith Amarasiri (Plastic Surgery), Dr. Eranga Wijeratne (Sports Medicine), Dr. Farah Rajapakshe (Pathology), Dr. Gayani Abeysinghe (Infectious Diseases), Dr. Harith Perera (Obstetrics and Gynecology), Dr. Indika Jayatilleke (Gerontology).",
-                "Currently, the following doctors are available: Dr. Anuradha Bandara (Cardiology), Dr. Chaminda Jayasundara (Pediatrics), Dr. Mahesh Weerasinghe (Oncology), Dr. Nimali Perera (Neurology), Dr. Tharindu Rajakaruna (Orthopedics), Dr. Sanduni Fernando (Dermatology), Dr. Dilhan Silva (Urology), Dr. Harsha Dissanayake (Endocrinology), Dr. Ishara Samaraweera (Gastroenterology), Dr. Udayanga Jayaweera (Ophthalmology), Dr. Roshan Mahanama (Rheumatology), Dr. Lakmini Vithanage (Psychiatry), Dr. Priyanka Abeysekara (Pulmonology), Dr. Sujith Rathnayake (Hematology), Dr. Upul Bandaranayake (Allergy & Immunology), Dr. Vibhusha Mendis (Rheumatology), Dr. Geethika Samarawickrama (Orthopedics), Dr. Lasith Malinga (Neurology), Dr. Renuka Jayawardena (Cardiology), Dr. Chathura Rajapakse (Pediatrics), Dr. Janith Liyanage (Oncology), Dr. Shehan Pathirana (Dermatology), Dr. Manoj Perera (Urology), Dr. Nalin Fonseka (Endocrinology), Dr. Buddhika Jayaratne (Gastroenterology), Dr. Amila Gunasekara (Ophthalmology), Dr. Gayan Perera (Rheumatology), Dr. Dinuka Silva (Psychiatry), Dr. Kasun Fernando (Pulmonology), Dr. Chamara Rajapaksa (Neurology), Dr. Lahiru Priyadarshana (Cardiology), Dr. Ruwani Jayasuriya (Pediatrics), Dr. Niroshan Mendis (Oncology), Dr. Sumith De Silva (Dermatology), Dr. Hiruni Wijewardena (Urology), Dr. Pawan Sandaruwan (Endocrinology), Dr. Chinthaka Jayaweera (Gastroenterology), Dr. Thilini Rajakaruna (Ophthalmology), Dr. Manjula Peiris (Rheumatology), Dr. Sajith Lakmal (Psychiatry), Dr. Prasad Kumara (Pulmonology), Dr. Asela Kumara (Internal Medicine), Dr. Bimali Ranaweera (Neurosurgery), Dr. Chatura De Silva (Critical Care), Dr. Damith Amarasiri (Plastic Surgery), Dr. Eranga Wijeratne (Sports Medicine), Dr. Farah Rajapakshe (Pathology), Dr. Gayani Abeysinghe (Infectious Diseases), Dr. Harith Perera (Obstetrics and Gynecology), Dr. Indika Jayatilleke (Gerontology).",
-                "These doctors are currently on duty: Dr. Anuradha Bandara (Cardiology), Dr. Chaminda Jayasundara (Pediatrics), Dr. Mahesh Weerasinghe (Oncology), Dr. Nimali Perera (Neurology), Dr. Tharindu Rajakaruna (Orthopedics), Dr. Sanduni Fernando (Dermatology), Dr. Dilhan Silva (Urology), Dr. Harsha Dissanayake (Endocrinology), Dr. Ishara Samaraweera (Gastroenterology), Dr. Udayanga Jayaweera (Ophthalmology), Dr. Roshan Mahanama (Rheumatology), Dr. Lakmini Vithanage (Psychiatry), Dr. Priyanka Abeysekara (Pulmonology), Dr. Sujith Rathnayake (Hematology), Dr. Upul Bandaranayake (Allergy & Immunology), Dr. Vibhusha Mendis (Rheumatology), Dr. Geethika Samarawickrama (Orthopedics), Dr. Lasith Malinga (Neurology), Dr. Renuka Jayawardena (Cardiology), Dr. Chathura Rajapakse (Pediatrics), Dr. Janith Liyanage (Oncology), Dr. Shehan Pathirana (Dermatology), Dr. Manoj Perera (Urology), Dr. Nalin Fonseka (Endocrinology), Dr. Buddhika Jayaratne (Gastroenterology), Dr. Amila Gunasekara (Ophthalmology), Dr. Gayan Perera (Rheumatology), Dr. Dinuka Silva (Psychiatry), Dr. Kasun Fernando (Pulmonology), Dr. Chamara Rajapaksa (Neurology), Dr. Lahiru Priyadarshana (Cardiology), Dr. Ruwani Jayasuriya (Pediatrics), Dr. Niroshan Mendis (Oncology), Dr. Sumith De Silva (Dermatology), Dr. Hiruni Wijewardena (Urology), Dr. Pawan Sandaruwan (Endocrinology), Dr. Chinthaka Jayaweera (Gastroenterology), Dr. Thilini Rajakaruna (Ophthalmology), Dr. Manjula Peiris (Rheumatology), Dr. Sajith Lakmal (Psychiatry), Dr. Prasad Kumara (Pulmonology), Dr. Asela Kumara (Internal Medicine), Dr. Bimali Ranaweera (Neurosurgery), Dr. Chatura De Silva (Critical Care), Dr. Damith Amarasiri (Plastic Surgery), Dr. Eranga Wijeratne (Sports Medicine), Dr. Farah Rajapakshe (Pathology), Dr. Gayani Abeysinghe (Infectious Diseases), Dr. Harith Perera (Obstetrics and Gynecology), Dr. Indika Jayatilleke (Gerontology).",
-                "The following doctors are currently free for consultations: Dr. Anuradha Bandara (Cardiology), Dr. Chaminda Jayasundara (Pediatrics), Dr. Mahesh Weerasinghe (Oncology), Dr. Nimali Perera (Neurology), Dr. Tharindu Rajakaruna (Orthopedics), Dr. Sanduni Fernando (Dermatology), Dr. Dilhan Silva (Urology), Dr. Harsha Dissanayake (Endocrinology), Dr. Ishara Samaraweera (Gastroenterology), Dr. Udayanga Jayaweera (Ophthalmology), Dr. Roshan Mahanama (Rheumatology), Dr. Lakmini Vithanage (Psychiatry), Dr. Priyanka Abeysekara (Pulmonology), Dr. Sujith Rathnayake (Hematology), Dr. Upul Bandaranayake (Allergy & Immunology), Dr. Vibhusha Mendis (Rheumatology), Dr. Geethika Samarawickrama (Orthopedics), Dr. Lasith Malinga (Neurology), Dr. Renuka Jayawardena (Cardiology), Dr. Chathura Rajapakse (Pediatrics), Dr. Janith Liyanage (Oncology), Dr. Shehan Pathirana (Dermatology), Dr. Manoj Perera (Urology), Dr. Nalin Fonseka (Endocrinology), Dr. Buddhika Jayaratne (Gastroenterology), Dr. Amila Gunasekara (Ophthalmology), Dr. Gayan Perera (Rheumatology), Dr. Dinuka Silva (Psychiatry), Dr. Kasun Fernando (Pulmonology), Dr. Chamara Rajapaksa (Neurology), Dr. Lahiru Priyadarshana (Cardiology), Dr. Ruwani Jayasuriya (Pediatrics), Dr. Niroshan Mendis (Oncology), Dr. Sumith De Silva (Dermatology), Dr. Hiruni Wijewardena (Urology), Dr. Pawan Sandaruwan (Endocrinology), Dr. Chinthaka Jayaweera (Gastroenterology), Dr. Thilini Rajakaruna (Ophthalmology), Dr. Manjula Peiris (Rheumatology), Dr. Sajith Lakmal (Psychiatry), Dr. Prasad Kumara (Pulmonology), Dr. Asela Kumara (Internal Medicine), Dr. Bimali Ranaweera (Neurosurgery), Dr. Chatura De Silva (Critical Care), Dr. Damith Amarasiri (Plastic Surgery), Dr. Eranga Wijeratne (Sports Medicine), Dr. Farah Rajapakshe (Pathology), Dr. Gayani Abeysinghe (Infectious Diseases), Dr. Harith Perera (Obstetrics and Gynecology), Dr. Indika Jayatilleke (Gerontology)."
-            ]
+                "Here are the doctors available with their specialties: Dr. Anuradha Bandara (Cardiology), Dr. Chaminda Jayasundara (Pediatrics), Dr. Mahesh Weerasinghe (Oncology), Dr. Nimali Perera (Neurology), Dr. Tharindu Rajakaruna (Orthopedics), Dr. Sanduni Fernando (Dermatology), Dr. Dilhan Silva (Urology), Dr. Harsha Dissanayake (Endocrinology), Dr. Ishara Samaraweera (Gastroenterology), Dr. Udayanga Jayaweera (Ophthalmology), Dr. Roshan Mahanama (Rheumatology), Dr. Lakmini Vithanage (Psychiatry), Dr. Priyanka Abeysekara (Pulmonology), Dr. Sujith Rathnayake (Hematology), Dr. Upul Bandaranayake (Allergy & Immunology), Dr. Vibhusha Mendis (Rheumatology), Dr. Geethika Samarawickrama (Orthopedics), Dr. Lasith Malinga (Neurology), Dr. Renuka Jayawardena (Cardiology), Dr. Chathura Rajapakse (Pediatrics), Dr. Janith Liyanage (Oncology), Dr. Shehan Pathirana (Dermatology), Dr. Manoj Perera (Urology), Dr. Nalin Fonseka (Endocrinology), Dr. Buddhika Jayaratne (Gastroenterology), Dr. Amila Gunasekara (Ophthalmology), Dr. Gayan Perera (Rheumatology), Dr. Dinuka Silva (Psychiatry), Dr. Kasun Fernando (Pulmonology), Dr. Chamara Rajapaksa (Neurology), Dr. Lahiru Priyadarshana (Cardiology), Dr. Ruwani Jayasuriya (Pediatrics), Dr. Niroshan Mendis (Oncology), Dr. Sumith De Silva (Dermatology), Dr. Hiruni Wijewardena (Urology), Dr. Pawan Sandaruwan (Endocrinology), Dr. Chinthaka Jayaweera (Gastroenterology), Dr. Thilini Rajakaruna (Ophthalmology), Dr. Manjula Peiris (Rheumatology), Dr. Sajith Lakmal (Psychiatry), Dr. Prasad Kumara (Pulmonology), Dr. Asela Kumara (Internal Medicine), Dr. Bimali Ranaweera (Neurosurgery), Dr. Chatura De Silva (Critical Care), Dr. Damith Amarasiri (Plastic Surgery), Dr. Eranga Wijeratne (Sports Medicine), Dr. Farah Rajapakshe (Pathology), Dr. Gayani Abeysinghe (Infectious Diseases), Dr. Harith Perera (Obstetrics and Gynecology), Dr. Indika Jayatilleke (Gerontology)."
+                ]
         },
         {
             "tag": "cardiology",
@@ -239,16 +195,7 @@
             ],
             "responses": [
                 "The following doctors specialize in Cardiology: Dr. Anuradha Bandara, Dr. Renuka Jayawardena, Dr. Lahiru Priyadarshana.",
-                "You can see the following cardiologists: Dr. Anuradha Bandara, Dr. Renuka Jayawardena, Dr. Lahiru Priyadarshana.",
-                "Our cardiology specialists are Dr. Anuradha Bandara, Dr. Renuka Jayawardena, Dr. Lahiru Priyadarshana.",
-                "For heart issues, you can consult these cardiologists: Dr. Anuradha Bandara, Dr. Renuka Jayawardena, Dr. Lahiru Priyadarshana.",
-                "The best cardiologists available are Dr. Anuradha Bandara, Dr. Renuka Jayawardena, Dr. Lahiru Priyadarshana.",
-                "The leading cardiologists in our network include Dr. Anuradha Bandara, Dr. Renuka Jayawardena, Dr. Lahiru Priyadarshana.",
-                "If you need a heart specialist, consider Dr. Anuradha Bandara, Dr. Renuka Jayawardena, Dr. Lahiru Priyadarshana.",
-                "Heart health experts available for consultation are Dr. Anuradha Bandara, Dr. Renuka Jayawardena, Dr. Lahiru Priyadarshana.",
-                "For cardiology consultations, you can visit Dr. Anuradha Bandara, Dr. Renuka Jayawardena, Dr. Lahiru Priyadarshana.",
-                "Renowned cardiologists you can see are Dr. Anuradha Bandara, Dr. Renuka Jayawardena, Dr. Lahiru Priyadarshana."
-            ]
+               ]
         },
         {
             "tag": "pediatrics",
@@ -302,19 +249,7 @@
                 "Any pediatric doctors available?"
             ],
             "responses": [
-                "The following doctors specialize in Pediatrics: Dr. Chaminda Jayasundara, Dr. Chathura Rajapakse, Dr. Ruwani Jayasuriya.",
-                "You can see the following pediatricians: Dr. Chaminda Jayasundara, Dr. Chathura Rajapakse, Dr. Ruwani Jayasuriya.",
-                "Our pediatrics specialists are Dr. Chaminda Jayasundara, Dr. Chathura Rajapakse, Dr. Ruwani Jayasuriya.",
-                "Available pediatricians include Dr. Chaminda Jayasundara, Dr. Chathura Rajapakse, and Dr. Ruwani Jayasuriya.",
-                "We have the following pediatricians: Dr. Chaminda Jayasundara, Dr. Chathura Rajapakse, Dr. Ruwani Jayasuriya.",
-                "For pediatric care, you can visit Dr. Chaminda Jayasundara, Dr. Chathura Rajapakse, or Dr. Ruwani Jayasuriya.",
-                "Our child health specialists are Dr. Chaminda Jayasundara, Dr. Chathura Rajapakse, and Dr. Ruwani Jayasuriya.",
-                "If you need a pediatrician, you can see Dr. Chaminda Jayasundara, Dr. Chathura Rajapakse, or Dr. Ruwani Jayasuriya.",
-                "The pediatricians available are Dr. Chaminda Jayasundara, Dr. Chathura Rajapakse, and Dr. Ruwani Jayasuriya.",
-                "Dr. Chaminda Jayasundara, Dr. Chathura Rajapakse, and Dr. Ruwani Jayasuriya are our pediatric specialists.",
-                "For child health issues, consult with Dr. Chaminda Jayasundara, Dr. Chathura Rajapakse, or Dr. Ruwani Jayasuriya.",
-                "The best pediatricians in our network are Dr. Chaminda Jayasundara, Dr. Chathura Rajapakse, and Dr. Ruwani Jayasuriya."
-            ]
+                "The following doctors specialize in Pediatrics: Dr. Chaminda Jayasundara, Dr. Chathura Rajapakse, Dr. Ruwani Jayasuriya."]
         },
         {
             "tag": "oncology",
@@ -362,17 +297,7 @@
                 "Professional cancer doctors"
             ],
             "responses": [
-                "The following doctors specialize in Oncology: Dr. Mahesh Weerasinghe, Dr. Janith Liyanage, Dr. Niroshan Mendis.",
-                "You can see the following oncologists: Dr. Mahesh Weerasinghe, Dr. Janith Liyanage, Dr. Niroshan Mendis.",
-                "Our oncology specialists are Dr. Mahesh Weerasinghe, Dr. Janith Liyanage, Dr. Niroshan Mendis.",
-                "The oncologists available for consultation are Dr. Mahesh Weerasinghe, Dr. Janith Liyanage, Dr. Niroshan Mendis.",
-                "Here are the cancer specialists you can consult: Dr. Mahesh Weerasinghe, Dr. Janith Liyanage, Dr. Niroshan Mendis.",
-                "For cancer care, you can reach out to Dr. Mahesh Weerasinghe, Dr. Janith Liyanage, Dr. Niroshan Mendis.",
-                "The best oncologists we have are Dr. Mahesh Weerasinghe, Dr. Janith Liyanage, Dr. Niroshan Mendis.",
-                "Our top cancer doctors include Dr. Mahesh Weerasinghe, Dr. Janith Liyanage, Dr. Niroshan Mendis.",
-                "You can find expert oncologists like Dr. Mahesh Weerasinghe, Dr. Janith Liyanage, Dr. Niroshan Mendis.",
-                "The leading oncology specialists are Dr. Mahesh Weerasinghe, Dr. Janith Liyanage, Dr. Niroshan Mendis."
-            ]
+                "The following doctors specialize in Oncology: Dr. Mahesh Weerasinghe, Dr. Janith Liyanage, Dr. Niroshan Mendis."]
         },
         {
             "tag": "neurology",
@@ -421,16 +346,7 @@
                 "Can you provide a list of neurologists?"
             ],
             "responses": [
-                "The following doctors specialize in Neurology: Dr. Nimali Perera, Dr. Lasith Malinga, Dr. Chamara Rajapaksa.",
-                "You can see the following neurologists: Dr. Nimali Perera, Dr. Lasith Malinga, Dr. Chamara Rajapaksa.",
-                "Our neurology specialists are Dr. Nimali Perera, Dr. Lasith Malinga, Dr. Chamara Rajapaksa.",
-                "Here are some neurologists you can consult: Dr. Nimali Perera, Dr. Lasith Malinga, Dr. Chamara Rajapaksa.",
-                "For brain health issues, you can visit Dr. Nimali Perera, Dr. Lasith Malinga, Dr. Chamara Rajapaksa.",
-                "The best neurologists in our network are Dr. Nimali Perera, Dr. Lasith Malinga, Dr. Chamara Rajapaksa.",
-                "If you need a neurology expert, consider Dr. Nimali Perera, Dr. Lasith Malinga, Dr. Chamara Rajapaksa.",
-                "Available neurologists include Dr. Nimali Perera, Dr. Lasith Malinga, Dr. Chamara Rajapaksa.",
-                "The top brain specialists we have are Dr. Nimali Perera, Dr. Lasith Malinga, Dr. Chamara Rajapaksa.",
-                "You can find excellent neurologists like Dr. Nimali Perera, Dr. Lasith Malinga, Dr. Chamara Rajapaksa."
+                "The following doctors specialize in Neurology: Dr. Nimali Perera, Dr. Lasith Malinga, Dr. Chamara Rajapaksa."
             ]
         },
         {
@@ -479,16 +395,7 @@
                 "List all orthopedic doctors"
             ],
             "responses": [
-                "The following doctors specialize in Orthopedics: Dr. Tharindu Rajakaruna, Dr. Geethika Samarawickrama.",
-                "You can see the following orthopedic surgeons: Dr. Tharindu Rajakaruna, Dr. Geethika Samarawickrama.",
-                "Our orthopedic specialists are Dr. Tharindu Rajakaruna, Dr. Geethika Samarawickrama.",
-                "Available orthopedic doctors include Dr. Tharindu Rajakaruna and Dr. Geethika Samarawickrama.",
-                "For bone issues, you can consult Dr. Tharindu Rajakaruna or Dr. Geethika Samarawickrama.",
-                "Dr. Tharindu Rajakaruna and Dr. Geethika Samarawickrama are experienced orthopedic surgeons.",
-                "Leading orthopedic specialists in our network are Dr. Tharindu Rajakaruna and Dr. Geethika Samarawickrama.",
-                "The top orthopedic doctors available are Dr. Tharindu Rajakaruna and Dr. Geethika Samarawickrama.",
-                "Bone health specialists include Dr. Tharindu Rajakaruna and Dr. Geethika Samarawickrama.",
-                "You can book an appointment with orthopedic experts Dr. Tharindu Rajakaruna or Dr. Geethika Samarawickrama."
+                "The following doctors specialize in Orthopedics: Dr. Tharindu Rajakaruna, Dr. Geethika Samarawickrama."
             ]
         },
         {
@@ -536,16 +443,7 @@
                 "Who are the top-rated dermatologists?"
             ],
             "responses": [
-                "The following doctors specialize in Dermatology: Dr. Sanduni Fernando, Dr. Shehan Pathirana, Dr. Sumith De Silva.",
-                "You can see the following dermatologists: Dr. Sanduni Fernando, Dr. Shehan Pathirana, Dr. Sumith De Silva.",
-                "Our dermatology specialists are Dr. Sanduni Fernando, Dr. Shehan Pathirana, Dr. Sumith De Silva.",
-                "We have these dermatologists available: Dr. Sanduni Fernando, Dr. Shehan Pathirana, Dr. Sumith De Silva.",
-                "For skin issues, you can consult: Dr. Sanduni Fernando, Dr. Shehan Pathirana, Dr. Sumith De Silva.",
-                "Dermatology experts available: Dr. Sanduni Fernando, Dr. Shehan Pathirana, Dr. Sumith De Silva.",
-                "The best dermatologists we recommend are Dr. Sanduni Fernando, Dr. Shehan Pathirana, Dr. Sumith De Silva.",
-                "Our top dermatologists are Dr. Sanduni Fernando, Dr. Shehan Pathirana, Dr. Sumith De Silva.",
-                "The skin specialists you can consult are Dr. Sanduni Fernando, Dr. Shehan Pathirana, Dr. Sumith De Silva.",
-                "Available dermatology doctors include Dr. Sanduni Fernando, Dr. Shehan Pathirana, Dr. Sumith De Silva."
+                "The following doctors specialize in Dermatology: Dr. Sanduni Fernando, Dr. Shehan Pathirana, Dr. Sumith De Silva."
             ]
         },
         {
@@ -593,16 +491,7 @@
                 "Who are the top-rated urologists?"
             ],
             "responses": [
-                "The following doctors specialize in Urology: Dr. Dilhan Silva, Dr. Manoj Perera, Dr. Hiruni Wijewardena.",
-                "You can see the following urologists: Dr. Dilhan Silva, Dr. Manoj Perera, Dr. Hiruni Wijewardena.",
-                "Our urology specialists are Dr. Dilhan Silva, Dr. Manoj Perera, Dr. Hiruni Wijewardena.",
-                "We have these urologists available: Dr. Dilhan Silva, Dr. Manoj Perera, Dr. Hiruni Wijewardena.",
-                "For urinary issues, you can consult: Dr. Dilhan Silva, Dr. Manoj Perera, Dr. Hiruni Wijewardena.",
-                "Urology experts available: Dr. Dilhan Silva, Dr. Manoj Perera, Dr. Hiruni Wijewardena.",
-                "The best urologists we recommend are Dr. Dilhan Silva, Dr. Manoj Perera, Dr. Hiruni Wijewardena.",
-                "Our top urologists are Dr. Dilhan Silva, Dr. Manoj Perera, Dr. Hiruni Wijewardena.",
-                "The urinary specialists you can consult are Dr. Dilhan Silva, Dr. Manoj Perera, Dr. Hiruni Wijewardena.",
-                "Available urology doctors include Dr. Dilhan Silva, Dr. Manoj Perera, Dr. Hiruni Wijewardena."
+                "The following doctors specialize in Urology: Dr. Dilhan Silva, Dr. Manoj Perera, Dr. Hiruni Wijewardena."
             ]
         },
         {
@@ -650,16 +539,7 @@
                 "Who are the top-rated endocrinologists?"
             ],
             "responses": [
-                "The following doctors specialize in Endocrinology: Dr. Harsha Dissanayake, Dr. Nalin Fonseka, Dr. Pawan Sandaruwan.",
-                "You can see the following endocrinologists: Dr. Harsha Dissanayake, Dr. Nalin Fonseka, Dr. Pawan Sandaruwan.",
-                "Our endocrinology specialists are Dr. Harsha Dissanayake, Dr. Nalin Fonseka, Dr. Pawan Sandaruwan.",
-                "We have these endocrinologists available: Dr. Harsha Dissanayake, Dr. Nalin Fonseka, Dr. Pawan Sandaruwan.",
-                "For hormonal issues, you can consult: Dr. Harsha Dissanayake, Dr. Nalin Fonseka, Dr. Pawan Sandaruwan.",
-                "Endocrinology experts available: Dr. Harsha Dissanayake, Dr. Nalin Fonseka, Dr. Pawan Sandaruwan.",
-                "The best endocrinologists we recommend are Dr. Harsha Dissanayake, Dr. Nalin Fonseka, Dr. Pawan Sandaruwan.",
-                "Our top endocrinologists are Dr. Harsha Dissanayake, Dr. Nalin Fonseka, Dr. Pawan Sandaruwan.",
-                "The hormone specialists you can consult are Dr. Harsha Dissanayake, Dr. Nalin Fonseka, Dr. Pawan Sandaruwan.",
-                "Available endocrinology doctors include Dr. Harsha Dissanayake, Dr. Nalin Fonseka, Dr. Pawan Sandaruwan."
+                "The following doctors specialize in Endocrinology: Dr. Harsha Dissanayake, Dr. Nalin Fonseka, Dr. Pawan Sandaruwan."
             ]
         },
         {
@@ -691,9 +571,7 @@
                 "Who are the available gastroenterologists?"
             ],
             "responses": [
-                "The following doctors specialize in Gastroenterology: Dr. Ishara Samaraweera, Dr. Buddhika Jayaratne, Dr. Chinthaka Jayaweera.",
-                "You can see the following gastroenterologists: Dr. Ishara Samaraweera, Dr. Buddhika Jayaratne, Dr. Chinthaka Jayaweera.",
-                "Our gastroenterology specialists are Dr. Ishara Samaraweera, Dr. Buddhika Jayaratne, Dr. Chinthaka Jayaweera."
+                "The following doctors specialize in Gastroenterology: Dr. Ishara Samaraweera, Dr. Buddhika Jayaratne, Dr. Chinthaka Jayaweera."
             ]
         },
         {
@@ -725,10 +603,7 @@
                 "Who are the available ophthalmologists?"
             ],
             "responses": [
-                "The following doctors specialize in Ophthalmology: Dr. Udayanga Jayaweera, Dr. Amila Gunasekara, Dr. Thilini Rajakaruna.",
-                "You can see the following ophthalmologists: Dr. Udayanga Jayaweera, Dr. Amila Gunasekara, Dr. Thilini Rajakaruna.",
-                "Our ophthalmology specialists are Dr. Udayanga Jayaweera, Dr. Amila Gunasekara, Dr. Thilini Rajakaruna."
-            ]
+                "The following doctors specialize in Ophthalmology: Dr. Udayanga Jayaweera, Dr. Amila Gunasekara, Dr. Thilini Rajakaruna."
         },
         {
             "tag": "rheumatology",
@@ -759,9 +634,7 @@
                 "Who are the available rheumatologists?"
             ],
             "responses": [
-                "The following doctors specialize in Rheumatology: Dr. Roshan Mahanama, Dr. Vibhusha Mendis, Dr. Manjula Peiris.",
-                "You can see the following rheumatologists: Dr. Roshan Mahanama, Dr. Vibhusha Mendis, Dr. Manjula Peiris.",
-                "Our rheumatology specialists are Dr. Roshan Mahanama, Dr. Vibhusha Mendis, Dr. Manjula Peiris."
+                "The following doctors specialize in Rheumatology: Dr. Roshan Mahanama, Dr. Vibhusha Mendis, Dr. Manjula Peiris."
             ]
         },
         {
@@ -793,9 +666,7 @@
                 "Who are the available psychiatrists?"
             ],
             "responses": [
-                "The following doctors specialize in Psychiatry: Dr. Lakmini Vithanage, Dr. Dinuka Silva, Dr. Sajith Lakmal.",
-                "You can see the following psychiatrists: Dr. Lakmini Vithanage, Dr. Dinuka Silva, Dr. Sajith Lakmal.",
-                "Our psychiatry specialists are Dr. Lakmini Vithanage, Dr. Dinuka Silva, Dr. Sajith Lakmal."
+                "The following doctors specialize in Psychiatry: Dr. Lakmini Vithanage, Dr. Dinuka Silva, Dr. Sajith Lakmal."
             ]
         },
         {
@@ -827,10 +698,7 @@
                 "Who are the available pulmonologists?"
             ],
             "responses": [
-                "The following doctors specialize in Pulmonology: Dr. Priyanka Abeysekara, Dr. Kasun Fernando, Dr. Prasad Kumara.",
-                "You can see the following pulmonologists: Dr. Priyanka Abeysekara, Dr. Kasun Fernando, Dr. Prasad Kumara.",
-                "Our pulmonology specialists are Dr. Priyanka Abeysekara, Dr. Kasun Fernando, Dr. Prasad Kumara."
-            ]
+                "The following doctors specialize in Pulmonology: Dr. Priyanka Abeysekara, Dr. Kasun Fernando, Dr. Prasad Kumara."
         },
         {
             "tag": "allergy_immunology",
@@ -861,9 +729,7 @@
                 "Who are the available allergists?"
             ],
             "responses": [
-                "Dr. Upul Bandaranayake specializes in Allergy & Immunology.",
-                "You can see Dr. Upul Bandaranayake for Allergy & Immunology.",
-                "Our Allergy & Immunology specialist is Dr. Upul Bandaranayake."
+                "Dr. Upul Bandaranayake specializes in Allergy & Immunology."
             ]
         },
         {
@@ -895,10 +761,7 @@
                 "Who are the available hematologists?"
             ],
             "responses": [
-                "Dr. Sujith Rathnayake specializes in Hematology.",
-                "You can see Dr. Sujith Rathnayake for Hematology.",
-                "Our Hematology specialist is Dr. Sujith Rathnayake."
-            ]
+                "Dr. Sujith Rathnayake specializes in Hematology."
         },
         {
             "tag": "internal_medicine",
@@ -929,9 +792,7 @@
                 "Who are the available internal medicine doctors?"
             ],
             "responses": [
-                "Dr. Asela Kumara specializes in Internal Medicine.",
-                "You can see Dr. Asela Kumara for Internal Medicine.",
-                "Our Internal Medicine specialist is Dr. Asela Kumara."
+                "Dr. Asela Kumara specializes in Internal Medicine."
             ]
         },
         {
@@ -963,9 +824,7 @@
                 "Who are the available neurosurgeons?"
             ],
             "responses": [
-                "Dr. Bimali Ranaweera specializes in Neurosurgery.",
-                "You can see Dr. Bimali Ranaweera for Neurosurgery.",
-                "Our Neurosurgery specialist is Dr. Bimali Ranaweera."
+                "Dr. Bimali Ranaweera specializes in Neurosurgery."
             ]
         },
         {
@@ -997,10 +856,7 @@
                 "Who are the available critical care doctors?"
             ],
             "responses": [
-                "Dr. Chatura De Silva specializes in Critical Care.",
-                "You can see Dr. Chatura De Silva for Critical Care.",
-                "Our Critical Care specialist is Dr. Chatura De Silva."
-            ]
+                "Dr. Chatura De Silva specializes in Critical Care."
         },
         {
             "tag": "plastic_surgery",
@@ -1031,9 +887,7 @@
                 "Who are the available plastic surgeons?"
             ],
             "responses": [
-                "Dr. Damith Amarasiri specializes in Plastic Surgery.",
-                "You can see Dr. Damith Amarasiri for Plastic Surgery.",
-                "Our Plastic Surgery specialist is Dr. Damith Amarasiri."
+                "Dr. Damith Amarasiri specializes in Plastic Surgery."
             ]
         },
         {
@@ -1065,9 +919,7 @@
                 "Who are the available sports medicine doctors?"
             ],
             "responses": [
-                "Dr. Eranga Wijeratne specializes in Sports Medicine.",
-                "You can see Dr. Eranga Wijeratne for Sports Medicine.",
-                "Our Sports Medicine specialist is Dr. Eranga Wijeratne."
+                "Dr. Eranga Wijeratne specializes in Sports Medicine."
             ]
         },
         {
@@ -1099,9 +951,7 @@
                 "Who are the available pathologists?"
             ],
             "responses": [
-                "Dr. Farah Rajapakshe specializes in Pathology.",
-                "You can see Dr. Farah Rajapakshe for Pathology.",
-                "Our Pathology specialist is Dr. Farah Rajapakshe."
+                "Dr. Farah Rajapakshe specializes in Pathology."
             ]
         },
         {
@@ -1133,9 +983,7 @@
                 "Who are the available infectious disease doctors?"
             ],
             "responses": [
-                "Dr. Gayani Abeysinghe specializes in Infectious Diseases.",
-                "You can see Dr. Gayani Abeysinghe for Infectious Diseases.",
-                "Our Infectious Diseases specialist is Dr. Gayani Abeysinghe."
+                "Dr. Gayani Abeysinghe specializes in Infectious Diseases."
             ]
         },
         {
@@ -1167,9 +1015,7 @@
                 "Who are the available OB-GYN doctors?"
             ],
             "responses": [
-                "Dr. Harith Perera specializes in Obstetrics and Gynecology.",
-                "You can see Dr. Harith Perera for Obstetrics and Gynecology.",
-                "Our Obstetrics and Gynecology specialist is Dr. Harith Perera."
+                "Dr. Harith Perera specializes in Obstetrics and Gynecology."
             ]
         },
         {
@@ -1201,9 +1047,7 @@
                 "Who are the available gerontologists?"
             ],
             "responses": [
-                "Dr. Indika Jayatilleke specializes in Gerontology.",
-                "You can see Dr. Indika Jayatilleke for Gerontology.",
-                "Our Gerontology specialist is Dr. Indika Jayatilleke."
+                "Dr. Indika Jayatilleke specializes in Gerontology."
             ]
         },
         {
@@ -1224,9 +1068,7 @@
                 "What's Dr. Anuradha Bandara's availability?"
             ],
             "responses": [
-                "Dr. Anuradha Bandara is available for Cardiology on 2024-05-10 from 9:00 AM to 11:00 AM.",
-                "You can book an appointment with Dr. Anuradha Bandara for Cardiology on 2024-05-10 from 9:00 AM to 11:00 AM.",
-                "Dr. Anuradha Bandara's availability for Cardiology is on 2024-05-10 from 9:00 AM to 11:00 AM."
+                "Dr. Anuradha Bandara is available for Cardiology on 2024-05-10 from 9:00 AM to 11:00 AM."
             ]
         },
         {
@@ -1247,9 +1089,7 @@
                 "What's Dr. Chaminda Jayasundara's availability?"
             ],
             "responses": [
-                "Dr. Chaminda Jayasundara is available for Pediatrics on 2024-05-10 from 2:00 PM to 4:00 PM.",
-                "You can book an appointment with Dr. Chaminda Jayasundara for Pediatrics on 2024-05-10 from 2:00 PM to 4:00 PM.",
-                "Dr. Chaminda Jayasundara's availability for Pediatrics is on 2024-05-10 from 2:00 PM to 4:00 PM."
+                "Dr. Chaminda Jayasundara is available for Pediatrics on 2024-05-10 from 2:00 PM to 4:00 PM."
             ]
         },
         {
@@ -1270,9 +1110,7 @@
                 "What's Dr. Mahesh Weerasinghe's availability?"
             ],
             "responses": [
-                "Dr. Mahesh Weerasinghe is available for Oncology on 2024-05-10 from 10:00 AM to 12:00 PM.",
-                "You can book an appointment with Dr. Mahesh Weerasinghe for Oncology on 2024-05-10 from 10:00 AM to 12:00 PM.",
-                "Dr. Mahesh Weerasinghe's availability for Oncology is on 2024-05-10 from 10:00 AM to 12:00 PM."
+                "Dr. Mahesh Weerasinghe is available for Oncology on 2024-05-10 from 10:00 AM to 12:00 PM."
             ]
         },
         {
@@ -1293,9 +1131,7 @@
                 "What's Dr. Nimali Perera's availability?"
             ],
             "responses": [
-                "Dr. Nimali Perera is available for Neurology on 2024-05-10 from 3:00 PM to 5:00 PM.",
-                "You can book an appointment with Dr. Nimali Perera for Neurology on 2024-05-10 from 3:00 PM to 5:00 PM.",
-                "Dr. Nimali Perera's availability for Neurology is on 2024-05-10 from 3:00 PM to 5:00 PM."
+                "Dr. Nimali Perera is available for Neurology on 2024-05-10 from 3:00 PM to 5:00 PM."
             ]
         },
         {
@@ -1316,9 +1152,7 @@
                 "What's Dr. Tharindu Rajakaruna's availability?"
             ],
             "responses": [
-                "Dr. Tharindu Rajakaruna is available for Orthopedics on 2024-05-11 from 8:00 AM to 10:00 AM.",
-                "You can book an appointment with Dr. Tharindu Rajakaruna for Orthopedics on 2024-05-11 from 8:00 AM to 10:00 AM.",
-                "Dr. Tharindu Rajakaruna's availability for Orthopedics is on 2024-05-11 from 8:00 AM to 10:00 AM."
+                "Dr. Tharindu Rajakaruna is available for Orthopedics on 2024-05-11 from 8:00 AM to 10:00 AM."
             ]
         },
         {
@@ -1339,9 +1173,7 @@
                 "What's Dr. Sanduni Fernando's availability?"
             ],
             "responses": [
-                "Dr. Sanduni Fernando is available for Dermatology on 2024-05-11 from 1:00 PM to 3:00 PM.",
-                "You can book an appointment with Dr. Sanduni Fernando for Dermatology on 2024-05-11 from 1:00 PM to 3:00 PM.",
-                "Dr. Sanduni Fernando's availability for Dermatology is on 2024-05-11 from 1:00 PM to 3:00 PM."
+                "Dr. Sanduni Fernando is available for Dermatology on 2024-05-11 from 1:00 PM to 3:00 PM."
             ]
         },
         {
@@ -1362,9 +1194,7 @@
                 "What's Dr. Dilhan Silva's availability?"
             ],
             "responses": [
-                "Dr. Dilhan Silva is available for Urology on 2024-05-12 from 9:00 AM to 11:00 AM.",
-                "You can book an appointment with Dr. Dilhan Silva for Urology on 2024-05-12 from 9:00 AM to 11:00 AM.",
-                "Dr. Dilhan Silva's availability for Urology is on 2024-05-12 from 9:00 AM to 11:00 AM."
+                "Dr. Dilhan Silva is available for Urology on 2024-05-12 from 9:00 AM to 11:00 AM."
             ]
         },
         {
@@ -1385,9 +1215,7 @@
                 "What's Dr. Harsha Dissanayake's availability?"
             ],
             "responses": [
-                "Dr. Harsha Dissanayake is available for Endocrinology on 2024-05-12 from 2:00 PM to 4:00 PM.",
-                "You can book an appointment with Dr. Harsha Dissanayake for Endocrinology on 2024-05-12 from 2:00 PM to 4:00 PM.",
-                "Dr. Harsha Dissanayake's availability for Endocrinology is on 2024-05-12 from 2:00 PM to 4:00 PM."
+                "Dr. Harsha Dissanayake is available for Endocrinology on 2024-05-12 from 2:00 PM to 4:00 PM."
             ]
         },
         {
@@ -1408,9 +1236,7 @@
                 "What's Dr. Ishara Samaraweera's availability?"
             ],
             "responses": [
-                "Dr. Ishara Samaraweera is available for Gastroenterology on 2024-05-13 from 10:00 AM to 12:00 PM.",
-                "You can book an appointment with Dr. Ishara Samaraweera for Gastroenterology on 2024-05-13 from 10:00 AM to 12:00 PM.",
-                "Dr. Ishara Samaraweera's availability for Gastroenterology is on 2024-05-13 from 10:00 AM to 12:00 PM."
+                "Dr. Ishara Samaraweera is available for Gastroenterology on 2024-05-13 from 10:00 AM to 12:00 PM."
             ]
         },
         {
@@ -1431,9 +1257,7 @@
                 "What's Dr. Udayanga Jayaweera's availability?"
             ],
             "responses": [
-                "Dr. Udayanga Jayaweera is available for Ophthalmology on 2024-05-13 from 3:00 PM to 5:00 PM.",
-                "You can book an appointment with Dr. Udayanga Jayaweera for Ophthalmology on 2024-05-13 from 3:00 PM to 5:00 PM.",
-                "Dr. Udayanga Jayaweera's availability for Ophthalmology is on 2024-05-13 from 3:00 PM to 5:00 PM."
+                "Dr. Udayanga Jayaweera is available for Ophthalmology on 2024-05-13 from 3:00 PM to 5:00 PM."
             ]
         },
         {
@@ -1454,9 +1278,7 @@
                 "What's Dr. Roshan Mahanama's availability?"
             ],
             "responses": [
-                "Dr. Roshan Mahanama is available for Rheumatology on 2024-05-14 from 8:00 AM to 10:00 AM.",
-                "You can book an appointment with Dr. Roshan Mahanama for Rheumatology on 2024-05-14 from 8:00 AM to 10:00 AM.",
-                "Dr. Roshan Mahanama's availability for Rheumatology is on 2024-05-14 from 8:00 AM to 10:00 AM."
+                "Dr. Roshan Mahanama is available for Rheumatology on 2024-05-14 from 8:00 AM to 10:00 AM."
             ]
         },
         {
@@ -1477,9 +1299,7 @@
                 "What's Dr. Lakmini Vithanage's availability?"
             ],
             "responses": [
-                "Dr. Lakmini Vithanage is available for Psychiatry on 2024-05-14 from 1:00 PM to 3:00 PM.",
-                "You can book an appointment with Dr. Lakmini Vithanage for Psychiatry on 2024-05-14 from 1:00 PM to 3:00 PM.",
-                "Dr. Lakmini Vithanage's availability for Psychiatry is on 2024-05-14 from 1:00 PM to 3:00 PM."
+                "Dr. Lakmini Vithanage is available for Psychiatry on 2024-05-14 from 1:00 PM to 3:00 PM."
             ]
         },
         {
@@ -1500,9 +1320,7 @@
                 "What's Dr. Priyanka Abeysekara's availability?"
             ],
             "responses": [
-                "Dr. Priyanka Abeysekara is available for Pulmonology on 2024-05-15 from 9:00 AM to 11:00 AM.",
-                "You can book an appointment with Dr. Priyanka Abeysekara for Pulmonology on 2024-05-15 from 9:00 AM to 11:00 AM.",
-                "Dr. Priyanka Abeysekara's availability for Pulmonology is on 2024-05-15 from 9:00 AM to 11:00 AM."
+                "Dr. Priyanka Abeysekara is available for Pulmonology on 2024-05-15 from 9:00 AM to 11:00 AM."
             ]
         },
         {
@@ -1523,9 +1341,7 @@
                 "What's Dr. Sujith Rathnayake's availability?"
             ],
             "responses": [
-                "Dr. Sujith Rathnayake is available for Hematology on 2024-05-15 from 2:00 PM to 4:00 PM.",
-                "You can book an appointment with Dr. Sujith Rathnayake for Hematology on 2024-05-15 from 2:00 PM to 4:00 PM.",
-                "Dr. Sujith Rathnayake's availability for Hematology is on 2024-05-15 from 2:00 PM to 4:00 PM."
+                "Dr. Sujith Rathnayake is available for Hematology on 2024-05-15 from 2:00 PM to 4:00 PM."
             ]
         },
         {
@@ -1546,9 +1362,7 @@
                 "What's Dr. Upul Bandaranayake's availability?"
             ],
             "responses": [
-                "Dr. Upul Bandaranayake is available for Allergy & Immunology on 2024-05-16 from 3:00 PM to 5:00 PM.",
-                "You can book an appointment with Dr. Upul Bandaranayake for Allergy & Immunology on 2024-05-16 from 3:00 PM to 5:00 PM.",
-                "Dr. Upul Bandaranayake's availability for Allergy & Immunology is on 2024-05-16 from 3:00 PM to 5:00 PM."
+                "Dr. Upul Bandaranayake is available for Allergy & Immunology on 2024-05-16 from 3:00 PM to 5:00 PM."
             ]
         },
         {
@@ -1569,9 +1383,7 @@
                 "What's Dr. Vibhusha Mendis's availability?"
             ],
             "responses": [
-                "Dr. Vibhusha Mendis is available for Rheumatology on 2024-05-18 from 2:00 PM to 4:00 PM.",
-                "You can book an appointment with Dr. Vibhusha Mendis for Rheumatology on 2024-05-18 from 2:00 PM to 4:00 PM.",
-                "Dr. Vibhusha Mendis's availability for Rheumatology is on 2024-05-18 from 2:00 PM to 4:00 PM."
+                "Dr. Vibhusha Mendis is available for Rheumatology on 2024-05-18 from 2:00 PM to 4:00 PM."
             ]
         },
         {
@@ -1592,9 +1404,7 @@
                 "What's Dr. Geethika Samarawickrama's availability?"
             ],
             "responses": [
-                "Dr. Geethika Samarawickrama is available for Orthopedics on 2024-05-19 from 10:00 AM to 12:00 PM.",
-                "You can book an appointment with Dr. Geethika Samarawickrama for Orthopedics on 2024-05-19 from 10:00 AM to 12:00 PM.",
-                "Dr. Geethika Samarawickrama's availability for Orthopedics is on 2024-05-19 from 10:00 AM to 12:00 PM."
+                "Dr. Geethika Samarawickrama is available for Orthopedics on 2024-05-19 from 10:00 AM to 12:00 PM."
             ]
         },
         {
@@ -1615,9 +1425,7 @@
                 "What's Dr. Lasith Malinga's availability?"
             ],
             "responses": [
-                "Dr. Lasith Malinga is available for Neurology on 2024-05-20 from 8:00 AM to 10:00 AM.",
-                "You can book an appointment with Dr. Lasith Malinga for Neurology on 2024-05-20 from 8:00 AM to 10:00 AM.",
-                "Dr. Lasith Malinga's availability for Neurology is on 2024-05-20 from 8:00 AM to 10:00 AM."
+                "Dr. Lasith Malinga is available for Neurology on 2024-05-20 from 8:00 AM to 10:00 AM."
             ]
         },
         {
@@ -1638,9 +1446,7 @@
                 "What's Dr. Renuka Jayawardena's availability?"
             ],
             "responses": [
-                "Dr. Renuka Jayawardena is available for Cardiology on 2024-05-20 from 1:00 PM to 3:00 PM.",
-                "You can book an appointment with Dr. Renuka Jayawardena for Cardiology on 2024-05-20 from 1:00 PM to 3:00 PM.",
-                "Dr. Renuka Jayawardena's availability for Cardiology is on 2024-05-20 from 1:00 PM to 3:00 PM."
+                "Dr. Renuka Jayawardena is available for Cardiology on 2024-05-20 from 1:00 PM to 3:00 PM."
             ]
         },
         {
@@ -1661,9 +1467,7 @@
                 "What's Dr. Chathura Rajapakse's availability?"
             ],
             "responses": [
-                "Dr. Chathura Rajapakse is available for Pediatrics on 2024-05-21 from 9:00 AM to 11:00 AM.",
-                "You can book an appointment with Dr. Chathura Rajapakse for Pediatrics on 2024-05-21 from 9:00 AM to 11:00 AM.",
-                "Dr. Chathura Rajapakse's availability for Pediatrics is on 2024-05-21 from 9:00 AM to 11:00 AM."
+                "Dr. Chathura Rajapakse is available for Pediatrics on 2024-05-21 from 9:00 AM to 11:00 AM."
             ]
         },
         {
@@ -1684,9 +1488,7 @@
                 "What's Dr. Janith Liyanage's availability?"
             ],
             "responses": [
-                "Dr. Janith Liyanage is available for Oncology on 2024-05-21 from 2:00 PM to 4:00 PM.",
-                "You can book an appointment with Dr. Janith Liyanage for Oncology on 2024-05-21 from 2:00 PM to 4:00 PM.",
-                "Dr. Janith Liyanage's availability for Oncology is on 2024-05-21 from 2:00 PM to 4:00 PM."
+                "Dr. Janith Liyanage is available for Oncology on 2024-05-21 from 2:00 PM to 4:00 PM."
             ]
         },
         {
@@ -1707,9 +1509,7 @@
                 "What's Dr. Shehan Pathirana's availability?"
             ],
             "responses": [
-                "Dr. Shehan Pathirana is available for Dermatology on 2024-05-22 from 10:00 AM to 12:00 PM.",
-                "You can book an appointment with Dr. Shehan Pathirana for Dermatology on 2024-05-22 from 10:00 AM to 12:00 PM.",
-                "Dr. Shehan Pathirana's availability for Dermatology is on 2024-05-22 from 10:00 AM to 12:00 PM."
+                "Dr. Shehan Pathirana is available for Dermatology on 2024-05-22 from 10:00 AM to 12:00 PM."
             ]
         },
         {
@@ -1730,9 +1530,7 @@
                 "What's Dr. Manoj Perera's availability?"
             ],
             "responses": [
-                "Dr. Manoj Perera is available for Urology on 2024-05-22 from 3:00 PM to 5:00 PM.",
-                "You can book an appointment with Dr. Manoj Perera for Urology on 2024-05-22 from 3:00 PM to 5:00 PM.",
-                "Dr. Manoj Perera's availability for Urology is on 2024-05-22 from 3:00 PM to 5:00 PM."
+                "Dr. Manoj Perera is available for Urology on 2024-05-22 from 3:00 PM to 5:00 PM."
             ]
         },
         {
@@ -1753,9 +1551,7 @@
                 "What's Dr. Nalin Fonseka's availability?"
             ],
             "responses": [
-                "Dr. Nalin Fonseka is available for Endocrinology on 2024-05-23 from 8:00 AM to 10:00 AM.",
-                "You can book an appointment with Dr. Nalin Fonseka for Endocrinology on 2024-05-23 from 8:00 AM to 10:00 AM.",
-                "Dr. Nalin Fonseka's availability for Endocrinology is on 2024-05-23 from 8:00 AM to 10:00 AM."
+                "Dr. Nalin Fonseka is available for Endocrinology on 2024-05-23 from 8:00 AM to 10:00 AM."
             ]
         },
         {
@@ -1776,9 +1572,7 @@
                 "What's Dr. Buddhika Jayaratne's availability?"
             ],
             "responses": [
-                "Dr. Buddhika Jayaratne is available for Gastroenterology on 2024-05-23 from 1:00 PM to 3:00 PM.",
-                "You can book an appointment with Dr. Buddhika Jayaratne for Gastroenterology on 2024-05-23 from 1:00 PM to 3:00 PM.",
-                "Dr. Buddhika Jayaratne's availability for Gastroenterology is on 2024-05-23 from 1:00 PM to 3:00 PM."
+                "Dr. Buddhika Jayaratne is available for Gastroenterology on 2024-05-23 from 1:00 PM to 3:00 PM."
             ]
         },
         {
@@ -1799,9 +1593,7 @@
                 "What's Dr. Amila Gunasekara's availability?"
             ],
             "responses": [
-                "Dr. Amila Gunasekara is available for Ophthalmology on 2024-05-24 from 9:00 AM to 11:00 AM.",
-                "You can book an appointment with Dr. Amila Gunasekara for Ophthalmology on 2024-05-24 from 9:00 AM to 11:00 AM.",
-                "Dr. Amila Gunasekara's availability for Ophthalmology is on 2024-05-24 from 9:00 AM to 11:00 AM."
+                "Dr. Amila Gunasekara is available for Ophthalmology on 2024-05-24 from 9:00 AM to 11:00 AM."
             ]
         },
         {
@@ -1822,9 +1614,7 @@
                 "What's Dr. Gayan Perera's availability?"
             ],
             "responses": [
-                "Dr. Gayan Perera is available for Rheumatology on 2024-05-24 from 2:00 PM to 4:00 PM.",
-                "You can book an appointment with Dr. Gayan Perera for Rheumatology on 2024-05-24 from 2:00 PM to 4:00 PM.",
-                "Dr. Gayan Perera's availability for Rheumatology is on 2024-05-24 from 2:00 PM to 4:00 PM."
+                "Dr. Gayan Perera is available for Rheumatology on 2024-05-24 from 2:00 PM to 4:00 PM."
             ]
         },
         {
@@ -1845,9 +1635,7 @@
                 "What's Dr. Dinuka Silva's availability?"
             ],
             "responses": [
-                "Dr. Dinuka Silva is available for Psychiatry on 2024-05-25 from 10:00 AM to 12:00 PM.",
-                "You can book an appointment with Dr. Dinuka Silva for Psychiatry on 2024-05-25 from 10:00 AM to 12:00 PM.",
-                "Dr. Dinuka Silva's availability for Psychiatry is on 2024-05-25 from 10:00 AM to 12:00 PM."
+                "Dr. Dinuka Silva is available for Psychiatry on 2024-05-25 from 10:00 AM to 12:00 PM."
             ]
         },
         {
@@ -1868,9 +1656,7 @@
                 "What's Dr. Kasun Fernando's availability?"
             ],
             "responses": [
-                "Dr. Kasun Fernando is available for Pulmonology on 2024-05-25 from 3:00 PM to 5:00 PM.",
-                "You can book an appointment with Dr. Kasun Fernando for Pulmonology on 2024-05-25 from 3:00 PM to 5:00 PM.",
-                "Dr. Kasun Fernando's availability for Pulmonology is on 2024-05-25 from 3:00 PM to 5:00 PM."
+                "Dr. Kasun Fernando is available for Pulmonology on 2024-05-25 from 3:00 PM to 5:00 PM."
             ]
         },
         {
@@ -1891,9 +1677,7 @@
                 "What's Dr. Chamara Rajapaksa's availability?"
             ],
             "responses": [
-                "Dr. Chamara Rajapaksa is available for Neurology on 2024-05-26 from 8:00 AM to 10:00 AM.",
-                "You can book an appointment with Dr. Chamara Rajapaksa for Neurology on 2024-05-26 from 8:00 AM to 10:00 AM.",
-                "Dr. Chamara Rajapaksa's availability for Neurology is on 2024-05-26 from 8:00 AM to 10:00 AM."
+                "Dr. Chamara Rajapaksa is available for Neurology on 2024-05-26 from 8:00 AM to 10:00 AM."
             ]
         },
         {
@@ -1914,9 +1698,7 @@
                 "What's Dr. Lahiru Priyadarshana's availability?"
             ],
             "responses": [
-                "Dr. Lahiru Priyadarshana is available for Cardiology on 2024-05-26 from 1:00 PM to 3:00 PM.",
-                "You can book an appointment with Dr. Lahiru Priyadarshana for Cardiology on 2024-05-26 from 1:00 PM to 3:00 PM.",
-                "Dr. Lahiru Priyadarshana's availability for Cardiology is on 2024-05-26 from 1:00 PM to 3:00 PM."
+                "Dr. Lahiru Priyadarshana is available for Cardiology on 2024-05-26 from 1:00 PM to 3:00 PM."
             ]
         },
         {
@@ -1937,9 +1719,7 @@
                 "What's Dr. Ruwani Jayasuriya's availability?"
             ],
             "responses": [
-                "Dr. Ruwani Jayasuriya is available for Pediatrics on 2024-05-27 from 9:00 AM to 11:00 AM.",
-                "You can book an appointment with Dr. Ruwani Jayasuriya for Pediatrics on 2024-05-27 from 9:00 AM to 11:00 AM.",
-                "Dr. Ruwani Jayasuriya's availability for Pediatrics is on 2024-05-27 from 9:00 AM to 11:00 AM."
+                "Dr. Ruwani Jayasuriya is available for Pediatrics on 2024-05-27 from 9:00 AM to 11:00 AM."
             ]
         },
         {
@@ -1960,9 +1740,7 @@
                 "What's Dr. Niroshan Mendis's availability?"
             ],
             "responses": [
-                "Dr. Niroshan Mendis is available for Oncology on 2024-05-27 from 2:00 PM to 4:00 PM.",
-                "You can book an appointment with Dr. Niroshan Mendis for Oncology on 2024-05-27 from 2:00 PM to 4:00 PM.",
-                "Dr. Niroshan Mendis's availability for Oncology is on 2024-05-27 from 2:00 PM to 4:00 PM."
+                "Dr. Niroshan Mendis is available for Oncology on 2024-05-27 from 2:00 PM to 4:00 PM."
             ]
         },
         {
@@ -1983,9 +1761,7 @@
                 "What's Dr. Sumith De Silva's availability?"
             ],
             "responses": [
-                "Dr. Sumith De Silva is available for Dermatology on 2024-05-28 from 10:00 AM to 12:00 PM.",
-                "You can book an appointment with Dr. Sumith De Silva for Dermatology on 2024-05-28 from 10:00 AM to 12:00 PM.",
-                "Dr. Sumith De Silva's availability for Dermatology is on 2024-05-28 from 10:00 AM to 12:00 PM."
+                "Dr. Sumith De Silva is available for Dermatology on 2024-05-28 from 10:00 AM to 12:00 PM."
             ]
         },
         {
@@ -2006,9 +1782,7 @@
                 "What's Dr. Hiruni Wijewardena's availability?"
             ],
             "responses": [
-                "Dr. Hiruni Wijewardena is available for Urology on 2024-05-28 from 3:00 PM to 5:00 PM.",
-                "You can book an appointment with Dr. Hiruni Wijewardena for Urology on 2024-05-28 from 3:00 PM to 5:00 PM.",
-                "Dr. Hiruni Wijewardena's availability for Urology is on 2024-05-28 from 3:00 PM to 5:00 PM."
+                "Dr. Hiruni Wijewardena is available for Urology on 2024-05-28 from 3:00 PM to 5:00 PM."
             ]
         },
         {
@@ -2029,9 +1803,7 @@
                 "What's Dr. Pawan Sandaruwan's availability?"
             ],
             "responses": [
-                "Dr. Pawan Sandaruwan is available for Endocrinology on 2024-05-29 from 8:00 AM to 10:00 AM.",
-                "You can book an appointment with Dr. Pawan Sandaruwan for Endocrinology on 2024-05-29 from 8:00 AM to 10:00 AM.",
-                "Dr. Pawan Sandaruwan's availability for Endocrinology is on 2024-05-29 from 8:00 AM to 10:00 AM."
+                "Dr. Pawan Sandaruwan is available for Endocrinology on 2024-05-29 from 8:00 AM to 10:00 AM."
             ]
         },
         {
@@ -2052,9 +1824,7 @@
                 "What's Dr. Chinthaka Jayaweera's availability?"
             ],
             "responses": [
-                "Dr. Chinthaka Jayaweera is available for Gastroenterology on 2024-05-29 from 1:00 PM to 3:00 PM.",
-                "You can book an appointment with Dr. Chinthaka Jayaweera for Gastroenterology on 2024-05-29 from 1:00 PM to 3:00 PM.",
-                "Dr. Chinthaka Jayaweera's availability for Gastroenterology is on 2024-05-29 from 1:00 PM to 3:00 PM."
+                "Dr. Chinthaka Jayaweera is available for Gastroenterology on 2024-05-29 from 1:00 PM to 3:00 PM."
             ]
         },
         {
@@ -2075,9 +1845,7 @@
                 "What's Dr. Thilini Rajakaruna's availability?"
             ],
             "responses": [
-                "Dr. Thilini Rajakaruna is available for Ophthalmology on 2024-05-30 from 9:00 AM to 11:00 AM.",
-                "You can book an appointment with Dr. Thilini Rajakaruna for Ophthalmology on 2024-05-30 from 9:00 AM to 11:00 AM.",
-                "Dr. Thilini Rajakaruna's availability for Ophthalmology is on 2024-05-30 from 9:00 AM to 11:00 AM."
+                "Dr. Thilini Rajakaruna is available for Ophthalmology on 2024-05-30 from 9:00 AM to 11:00 AM."
             ]
         },
         {
@@ -2098,9 +1866,7 @@
                 "What's Dr. Manjula Peiris's availability?"
             ],
             "responses": [
-                "Dr. Manjula Peiris is available for Rheumatology on 2024-05-30 from 2:00 PM to 4:00 PM.",
-                "You can book an appointment with Dr. Manjula Peiris for Rheumatology on 2024-05-30 from 2:00 PM to 4:00 PM.",
-                "Dr. Manjula Peiris's availability for Rheumatology is on 2024-05-30 from 2:00 PM to 4:00 PM."
+                "Dr. Manjula Peiris is available for Rheumatology on 2024-05-30 from 2:00 PM to 4:00 PM."
             ]
         },
         {
@@ -2121,9 +1887,7 @@
                 "What's Dr. Sajith Lakmal's availability?"
             ],
             "responses": [
-                "Dr. Sajith Lakmal is available for Psychiatry on 2024-05-31 from 10:00 AM to 12:00 PM.",
-                "You can book an appointment with Dr. Sajith Lakmal for Psychiatry on 2024-05-31 from 10:00 AM to 12:00 PM.",
-                "Dr. Sajith Lakmal's availability for Psychiatry is on 2024-05-31 from 10:00 AM to 12:00 PM."
+                "Dr. Sajith Lakmal is available for Psychiatry on 2024-05-31 from 10:00 AM to 12:00 PM."
             ]
         },
         {
@@ -2144,9 +1908,7 @@
                 "What's Dr. Prasad Kumara's availability?"
             ],
             "responses": [
-                "Dr. Prasad Kumara is available for Pulmonology on 2024-05-31 from 3:00 PM to 5:00 PM.",
-                "You can book an appointment with Dr. Prasad Kumara for Pulmonology on 2024-05-31 from 3:00 PM to 5:00 PM.",
-                "Dr. Prasad Kumara's availability for Pulmonology is on 2024-05-31 from 3:00 PM to 5:00 PM."
+                "Dr. Prasad Kumara is available for Pulmonology on 2024-05-31 from 3:00 PM to 5:00 PM."
             ]
         },
         {
@@ -2167,9 +1929,7 @@
                 "What's Dr. Asela Kumara's availability?"
             ],
             "responses": [
-                "Dr. Asela Kumara is available for Internal Medicine on 2024-06-01 from 9:00 AM to 11:00 AM.",
-                "You can book an appointment with Dr. Asela Kumara for Internal Medicine on 2024-06-01 from 9:00 AM to 11:00 AM.",
-                "Dr. Asela Kumara's availability for Internal Medicine is on 2024-06-01 from 9:00 AM to 11:00 AM."
+                "Dr. Asela Kumara is available for Internal Medicine on 2024-06-01 from 9:00 AM to 11:00 AM."
             ]
         },
         {
@@ -2190,9 +1950,7 @@
                 "What's Dr. Bimali Ranaweera's availability?"
             ],
             "responses": [
-                "Dr. Bimali Ranaweera is available for Neurosurgery on 2024-06-01 from 1:00 PM to 3:00 PM.",
-                "You can book an appointment with Dr. Bimali Ranaweera for Neurosurgery on 2024-06-01 from 1:00 PM to 3:00 PM.",
-                "Dr. Bimali Ranaweera's availability for Neurosurgery is on 2024-06-01 from 1:00 PM to 3:00 PM."
+                "Dr. Bimali Ranaweera is available for Neurosurgery on 2024-06-01 from 1:00 PM to 3:00 PM."
             ]
         },
         {
@@ -2213,9 +1971,7 @@
                 "What's Dr. Chatura De Silva's availability?"
             ],
             "responses": [
-                "Dr. Chatura De Silva is available for Critical Care on 2024-06-02 from 10:00 AM to 12:00 PM.",
-                "You can book an appointment with Dr. Chatura De Silva for Critical Care on 2024-06-02 from 10:00 AM to 12:00 PM.",
-                "Dr. Chatura De Silva's availability for Critical Care is on 2024-06-02 from 10:00 AM to 12:00 PM."
+                "Dr. Chatura De Silva is available for Critical Care on 2024-06-02 from 10:00 AM to 12:00 PM."
             ]
         },
         {
@@ -2236,9 +1992,7 @@
                 "What's Dr. Damith Amarasiri's availability?"
             ],
             "responses": [
-                "Dr. Damith Amarasiri is available for Plastic Surgery on 2024-06-02 from 2:00 PM to 4:00 PM.",
-                "You can book an appointment with Dr. Damith Amarasiri for Plastic Surgery on 2024-06-02 from 2:00 PM to 4:00 PM.",
-                "Dr. Damith Amarasiri's availability for Plastic Surgery is on 2024-06-02 from 2:00 PM to 4:00 PM."
+                "Dr. Damith Amarasiri is available for Plastic Surgery on 2024-06-02 from 2:00 PM to 4:00 PM."
             ]
         },
         {
@@ -2259,10 +2013,7 @@
                 "What's Dr. Eranga Wijeratne's availability?"
             ],
             "responses": [
-                "Dr. Eranga Wijeratne is available for Sports Medicine on 2024-06-03 from 9:00 AM to 11:00 AM.",
-                "You can book an appointment with Dr. Eranga Wijeratne for Sports Medicine on 2024-06-03 from 9:00 AM to 11:00 AM.",
-                "Dr. Eranga Wijeratne's availability for Sports Medicine is on 2024-06-03 from 9:00 AM to 11:00 AM."
-            ]
+                "Dr. Eranga Wijeratne is available for Sports Medicine on 2024-06-03 from 9:00 AM to 11:00 AM."            ]
         },
         {
             "tag": "Dr_F_Rajapakshe_Pathology",
@@ -2282,9 +2033,7 @@
                 "What's Dr. Farah Rajapakshe's availability?"
             ],
             "responses": [
-                "Dr. Farah Rajapakshe is available for Pathology on 2024-06-03 from 1:00 PM to 3:00 PM.",
-                "You can book an appointment with Dr. Farah Rajapakshe for Pathology on 2024-06-03 from 1:00 PM to 3:00 PM.",
-                "Dr. Farah Rajapakshe's availability for Pathology is on 2024-06-03 from 1:00 PM to 3:00 PM."
+                "Dr. Farah Rajapakshe is available for Pathology on 2024-06-03 from 1:00 PM to 3:00 PM."
             ]
         },
         {
@@ -2305,9 +2054,7 @@
                 "What's Dr. Gayani Abeysinghe's availability?"
             ],
             "responses": [
-                "Dr. Gayani Abeysinghe is available for Infectious Diseases on 2024-06-04 from 10:00 AM to 12:00 PM.",
-                "You can book an appointment with Dr. Gayani Abeysinghe for Infectious Diseases on 2024-06-04 from 10:00 AM to 12:00 PM.",
-                "Dr. Gayani Abeysinghe's availability for Infectious Diseases is on 2024-06-04 from 10:00 AM to 12:00 PM."
+                "Dr. Gayani Abeysinghe is available for Infectious Diseases on 2024-06-04 from 10:00 AM to 12:00 PM."
             ]
         },
         {
@@ -2328,9 +2075,7 @@
                 "What's Dr. Harith Perera's availability?"
             ],
             "responses": [
-                "Dr. Harith Perera is available for Obstetrics and Gynecology on 2024-06-04 from 2:00 PM to 4:00 PM.",
-                "You can book an appointment with Dr. Harith Perera for Obstetrics and Gynecology on 2024-06-04 from 2:00 PM to 4:00 PM.",
-                "Dr. Harith Perera's availability for Obstetrics and Gynecology is on 2024-06-04 from 2:00 PM to 4:00 PM."
+                "Dr. Harith Perera is available for Obstetrics and Gynecology on 2024-06-04 from 2:00 PM to 4:00 PM."
             ]
         },
         {
@@ -2351,9 +2096,7 @@
                 "What's Dr. Indika Jayatilleke's availability?"
             ],
             "responses": [
-                "Dr. Indika Jayatilleke is available for Gerontology on 2024-06-05 from 9:00 AM to 11:00 AM.",
-                "You can book an appointment with Dr. Indika Jayatilleke for Gerontology on 2024-06-05 from 9:00 AM to 11:00 AM.",
-                "Dr. Indika Jayatilleke's availability for Gerontology is on 2024-06-05 from 9:00 AM to 11:00 AM."
+                "Dr. Indika Jayatilleke is available for Gerontology on 2024-06-05 from 9:00 AM to 11:00 AM."
             ]
         },
         {
@@ -2395,23 +2138,10 @@
                 "it's time to say goodbye"
             ],
             "responses": [
-                "Sad to see you go :(",
-                "Talk to you later",
-                "Goodbye",
-                "Take care!",
-                "See you soon!",
-                "Catch you later!",
-                "Farewell!",
-                "Have a great day!",
                 "Goodbye! If you have more questions, feel free to come back.",
                 "Bye! Have a wonderful day ahead.",
                 "Take care! I'm here if you need anything else.",
                 "Goodbye! It was nice talking to you.",
-                "See you later! Don't hesitate to reach out if you need more help.",
-                "Peace out!",
-                "So long!",
-                "Adios!",
-                "Talk to you soon!",
                 "Catch you on the flip side!",
                 "Take care! It was great talking with you.",
                 "Goodbye! Come back if you need anything.",
@@ -2462,26 +2192,7 @@
                 "ununderstandable input"
             ],
             "responses": [
-                "I'm sorry, I didn't understand that. Could you please rephrase?",
-                "I didn't catch that. Could you try saying it differently?",
-                "I'm not sure I understand. Can you say that again?",
-                "I'm sorry, I didn't get that. Can you repeat?",
-                "Could you please clarify what you mean?",
-                "I didn't quite get that. Can you say it again?",
-                "I'm not sure what you mean. Can you explain?",
-                "I'm having trouble understanding. Could you rephrase?",
-                "Sorry, I didn't understand. Can you try saying it another way?",
-                "I didn't catch that. Could you say it differently?",
-                "I'm sorry, I didn't get that. Could you rephrase?",
-                "Can you clarify that for me?",
-                "I'm having trouble understanding that. Can you say it in another way?",
-                "I didn't understand. Can you explain?",
-                "I didn't quite catch that. Can you rephrase?",
-                "Could you say that again?",
-                "I'm not following. Can you clarify?",
-                "I'm having difficulty understanding. Can you try again?",
-                "Could you repeat that?",
-                "I'm not sure what you mean. Can you say it differently?"
+                "I'm sorry, I didn't understand that. Could you please rephrase?"
             ]
         }
     ]
