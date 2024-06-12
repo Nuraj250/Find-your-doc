@@ -194,7 +194,7 @@
                 "Cardiologists for heart health"
             ],
             "responses": [
-                "The following doctors specialize in Cardiology: Dr. Anuradha Bandara, Dr. Renuka Jayawardena, Dr. Lahiru Priyadarshana.",
+                "The following doctors specialize in Cardiology: Dr. Anuradha Bandara, Dr. Renuka Jayawardena, Dr. Lahiru Priyadarshana."
                ]
         },
         {
@@ -604,6 +604,7 @@
             ],
             "responses": [
                 "The following doctors specialize in Ophthalmology: Dr. Udayanga Jayaweera, Dr. Amila Gunasekara, Dr. Thilini Rajakaruna."
+            ]
         },
         {
             "tag": "rheumatology",
@@ -699,6 +700,7 @@
             ],
             "responses": [
                 "The following doctors specialize in Pulmonology: Dr. Priyanka Abeysekara, Dr. Kasun Fernando, Dr. Prasad Kumara."
+            ]
         },
         {
             "tag": "allergy_immunology",
@@ -762,6 +764,7 @@
             ],
             "responses": [
                 "Dr. Sujith Rathnayake specializes in Hematology."
+            ]
         },
         {
             "tag": "internal_medicine",
@@ -857,6 +860,7 @@
             ],
             "responses": [
                 "Dr. Chatura De Silva specializes in Critical Care."
+            ]
         },
         {
             "tag": "plastic_surgery",
